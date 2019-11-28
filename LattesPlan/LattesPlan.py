@@ -1344,7 +1344,7 @@ while (desejo2 == False):
 						
 				wb.save('EstratosQualis.xls')
 				print('\n')
-				print('NOTAS CORRIGIDAS! \nPara conferir a planilha com os resultados, consulte o arquivo EstratoQualis.xls, na pasta ExtratorDeNotas.')
+				print('NOTAS CORRIGIDAS! \nPara conferir a planilha com os resultados, consulte o arquivo EstratoQualis.xls, na pasta LattesPlan.')
 				resp = True
 			elif (decisao == 'n' or decisao == 'N'):
 				print('PROGRAMA ENCERRADO.')
