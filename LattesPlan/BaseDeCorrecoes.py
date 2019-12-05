@@ -35,12 +35,12 @@ B4p = 0.125
 Cp = 0
 
 #Quais Referência Conferências
-A1c = 0.45
-A2c = 0.35
-A3c = 0.25
-A4c = 0.20
-B1c = 0.15
-B2c = 0.12
-B3c = 0.09
-B4c = 0.06
+A1c = 1
+A2c = 0.875
+A3c = 0.750
+A4c = 0.625
+B1c = 0.50
+B2c = 0.375
+B3c = 0.250
+B4c = 0.125
 Cc = 0
